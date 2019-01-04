@@ -1,5 +1,5 @@
 # nodejs-app
-Simple  node-js application running in a docker image
+Simple  node.js application running in a docker image
 # Build docker image
 ```
 docker build --tag marvino1/nodejs-app .
